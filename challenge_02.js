@@ -26,6 +26,7 @@ let age = parseInt(prompt("Wie alt bist du?"));
     let wein    = (age > 17);
 
 switch (true) {
+    
     case milch:
         console.log(vorName + " trinkt Milch!");        
         break;
