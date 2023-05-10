@@ -20,10 +20,10 @@ Alter 13-17 // Cola
 let vorName = prompt("Gib hier deinen Namen ein");
 let age = parseInt(prompt("Wie alt bist du?"));
 
-let milch   = (age < 6);
-let saft    = (age < 13);  
-let cola    = (age < 18);
-let wein    = (age > 17);
+    let milch   = (age < 6);
+    let saft    = (age < 13);  
+    let cola    = (age < 18);
+    let wein    = (age > 17);
 
 switch (true) {
     case milch:
